@@ -13,9 +13,8 @@
 .brand-name {
   text-decoration: none;
   color: #f08040;
-  font-size: 2rem;
   margin-left: 1rem;
-  font-family: 'Helvetica';
+  font-family: 'Helvetica', sans-serif;
   font-size: 20px;
 }
 
@@ -37,9 +36,8 @@
   text-decoration: none;
   display: block;
   width: 100%;
-  font-size: 1.4rem;
   color: #f08040;
-  font-family: 'Helvetica';
+  font-family: 'Helvetica', sans-serif;
   font-size: 13px;
 }
 

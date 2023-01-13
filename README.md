@@ -1,28 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians React Calculator Web Application with Events
+# Math Magicians 
 
-> This is my first project of the Math Magicians application buiding in React Js.
+> This is my first project of the Math Magicians application with React.
 
-## Setup
-Clone this repository
-- git clone https://github.com/ogagaoghene/math-magician-app.git
-- cd math_magicians-app
+## Tech Stack
 
-## Run project
-- npm run build
-- npm run start 
+**Client:** JavaScript, React, Webpack, CSS.
 
-## Run tests
-To run the test just use the following command!
-$ npm test
+## Run Locally
+Clone the project
 
-## Built With
-- React
-- JavaScript
-- Webpack
-- CSS
+```bash
+  git clone https://github.com/ogagaoghene/math-magician-website.git
+```
+Go to the project directory
 
+```bash
+  cd math-magician-website
+```
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 ## Author
 
 👤 **Esi Ogagaoghene**

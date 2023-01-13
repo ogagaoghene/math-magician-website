@@ -2,7 +2,7 @@
 
 # Math Magicians 
 
-> This is my first project of the Math Magicians application with React.
+> Math Magician website calculator for performing basic arithmetic operations.
 
 ## Tech Stack
 
